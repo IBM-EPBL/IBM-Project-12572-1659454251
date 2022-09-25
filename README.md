@@ -30,8 +30,8 @@ providing them best profiles.
 ## 👦 TEAM MEMBERS
 
 - VASANTH R          -    810419205049
-- KRISHNARAJ D       -    8104192050
-- SANTHOSHKUMAR K    -    8104192050
+- KRISHNARAJ D       -    810419205024
+- SANTHOSHKUMAR K    -    810419205039
 - VENKATESAN P       -    810419205050
 
 ## 🔗 LINKS
