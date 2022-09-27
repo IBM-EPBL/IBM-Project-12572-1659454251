@@ -27,7 +27,7 @@ providing them best profiles.
 
 
 
-## 👦 TEAM MEMBERS
+# 👦 TEAM MEMBERS
 
 - VASANTH R          -    810419205049
 - KRISHNARAJ D       -    810419205024
@@ -35,8 +35,8 @@ providing them best profiles.
 - VENKATESAN P       -    810419205050
 
 ## 🔗 LINKS
-- VASANTH R    [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Lead) 
-- KRISHNARAJ D   [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Member%201)
-- SANTHOSHKUMAR K     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Member%202)
-- VENKATESAN P      [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Member%203)
+- VASANTH R    [ASSIGNMENTS](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Lead) 
+- KRISHNARAJ D   [ASSIGNMENTS](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Member%201)
+- SANTHOSHKUMAR K     [ASSIGNMENTS](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Member%202)
+- VENKATESAN P      [ASSIGNMENTS](https://github.com/IBM-EPBL/IBM-Project-12572-1659454251/tree/main/Assignments%2FTeam%20Member%203)
 
