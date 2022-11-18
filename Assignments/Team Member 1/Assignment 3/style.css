@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(255, 255, 0, 0.5);
+}
+#gallery{
+    margin-top: 10%;
+    margin: 5%;
+    line-height:0;
+    column-count:5;
+    column-gap:5px;
+}
+#gallery img{
+    width: 100% !important;
+    height: auto !important;
+    margin-bottom:5px;
+}
+h2{
+    text-align: center;
+    font-family: Lucida Handwriting;
+    font-size: 50px;
+    margin-top: 3%;
+    font-weight: bolder;
+    color: aliceblue;
+}
