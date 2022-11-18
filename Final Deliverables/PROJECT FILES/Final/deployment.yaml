@@ -1,0 +1,20 @@
+ apiVersion: apps/v1
+ kind: Deployment
+ metadata:
+   name: flask-node-deployment
+ spec:
+   replicas: 1
+   selector:
+     matchLabels:
+       app: python-docker
+   template:
+     metadata:
+       labels:
+         app: python-docker
+     spec:
+       containers:
+       - name: python-docker
+         image: de.icr.io/dream-team/python-docker:latest
+         imagePullPolicy: Always
+         ports:
+         - containerPort: 5001
